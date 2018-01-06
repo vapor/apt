@@ -42,7 +42,7 @@ You can add your own packages or updates to existing packages. To do so, make a 
 
 The package should be included in each ubuntu version folder. The folder should be called
 
-`<packageName_<packageVersion>`
+`<packageName>_<packageVersion>`
 
 e.g.
 
