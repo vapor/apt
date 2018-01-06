@@ -7,11 +7,11 @@ UBUNTU_VERSION2="ubuntu1604"
 
 cd src/
 
-curl -O https://swift.org/builds/swift-$SWIFT_VERSION/$UBUNTU_VERSION2/swift-$SWIFT_VERSION2/swift-$SWIFT_VERSION2-$UBUNTU_VERSION.tar.gz 2>&1 /dev/null
+curl -O https://swift.org/builds/swift-$SWIFT_VERSION/$UBUNTU_VERSION2/swift-$SWIFT_VERSION2/swift-$SWIFT_VERSION2-$UBUNTU_VERSION.tar.gz &>/dev/null
 
-tar zxvf swift-$SWIFT_VERSION2-$UBUNTU_VERSION.tar.gz 2>&1 /dev/null
+tar zxvf swift-$SWIFT_VERSION2-$UBUNTU_VERSION.tar.gz &>/dev/null
 
-cp -R swift-$SWIFT_VERSION2-$UBUNTU_VERSION/* . 2>&1 /dev/null
+cp -R swift-$SWIFT_VERSION2-$UBUNTU_VERSION/* . &>/dev/null
 
-rm swift-$SWIFT_VERSION2-$UBUNTU_VERSION.tar.gz 2>&1 /dev/null
-rm -fr swift-$SWIFT_VERSION2-$UBUNTU_VERSION 2>&1 /dev/null
+rm swift-$SWIFT_VERSION2-$UBUNTU_VERSION.tar.gz &>/dev/null
+rm -fr swift-$SWIFT_VERSION2-$UBUNTU_VERSION &>/dev/null
