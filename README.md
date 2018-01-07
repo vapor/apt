@@ -102,9 +102,3 @@ Basically version need to be semver (x.x.x)
 #### Swift pre release
 
 For Swift beta, the version should be e.g. `4.0.0~20170915` the part after `~` is the release date.
-
-### Examples
-
-Default setup Swift: LINK
-
-Build example, Toolbox: LINK
