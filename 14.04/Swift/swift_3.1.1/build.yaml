@@ -1,0 +1,11 @@
+package: "swift"
+version: "3.1.1"
+
+dependencies:
+    - "clang"
+    - "libicu-dev"
+    - "libcurl3"
+
+description: "Swift programming language"
+
+postinst: true
