@@ -2,6 +2,7 @@
 
 [![Build Status](https://jenkins.vapor.cloud/buildStatus/icon?job=vapor-apt-build)](https://jenkins.vapor.cloud/job/vapor-apt-build)
 
+
 The Vapor APT is the easiest way to install Swift and related packages on Ubuntu. This repository is not limited to Vapor, but can be used to install a standalone Swift.
 
 ## Using the APT
