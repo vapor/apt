@@ -3,9 +3,10 @@
 TOOLBOX_VERSION="3.1.2"
 SWIFT_VERSION="4.0.0"
 
-swift --version
-
+apt-get update -y
 apt-get install -y --allow-downgrades swift=${SWIFT_VERSION} ctls
+
+swift --version
 
 git clone git@github.com:vapor/toolbox.git && cd toolbox
 
