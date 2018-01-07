@@ -1,0 +1,7 @@
+package: "cmysql"
+version: "1.0.0"
+
+dependencies:
+    - "libmysqlclient-dev"
+
+description: "MySQL module map for Swift"
