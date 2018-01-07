@@ -5,7 +5,7 @@ SWIFT_VERSION="4.0.0"
 
 swift --version
 
-apt-get install -y --allow-downgrades swift=${SWIFT_VERSION}
+apt-get install -y --allow-downgrades swift=${SWIFT_VERSION} ctls
 
 git clone git@github.com:vapor/toolbox.git && cd toolbox
 
