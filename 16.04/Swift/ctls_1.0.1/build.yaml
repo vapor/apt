@@ -5,4 +5,4 @@ dependencies:
     - "openssl"
     - "libssl-dev"
 
-description: "LibreSSL / OpenSSL module map for Swift"
+description: "LibreSSL and OpenSSL module map for Swift"
