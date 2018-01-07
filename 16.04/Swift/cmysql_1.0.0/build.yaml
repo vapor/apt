@@ -1,0 +1,4 @@
+package: "cmysql"
+version: "1.0.0"
+
+description: "MySQL module map for Swift"
