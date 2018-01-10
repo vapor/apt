@@ -1,0 +1,9 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+Name: CStack
+Description: Stacktrace library
+Version: 1.0
+Cflags: -I${includedir} -rdynamic
+Libs: -L${libdir} -lstack
