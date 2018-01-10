@@ -5,5 +5,5 @@ includedir=${prefix}/include
 Name: CStack
 Description: Stacktrace library
 Version: 1.0
-Cflags: -I${includedir} -rdynamic
+Cflags: -I${includedir}
 Libs: -L${libdir} -lstack
