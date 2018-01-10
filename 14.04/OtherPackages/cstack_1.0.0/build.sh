@@ -2,7 +2,7 @@
 
 cd src/
 
-curl -O https://github.com/nodes-vapor/stack/releases/download/0.0.0/stack-linux.tar.gz
+wget https://github.com/nodes-vapor/stack/releases/download/0.0.0/stack-linux.tar.gz
 
 tar zxf stack-linux.tar.gz
 
