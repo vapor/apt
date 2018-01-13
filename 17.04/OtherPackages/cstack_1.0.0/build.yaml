@@ -1,0 +1,4 @@
+package: "cstack"
+version: "1.0.0"
+
+description: "CStack module map for Swift"
