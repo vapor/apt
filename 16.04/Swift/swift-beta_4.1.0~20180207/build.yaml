@@ -1,5 +1,5 @@
-package: "swift"
-version: "4.0.3"
+package: "swift-beta"
+version: "4.1.0~20180207"
 
 dependencies:
     - "clang"
