@@ -1,5 +1,5 @@
 package: "vapor"
-version: "3.1.2-4.0.3"
+version: "3.1.4-4.1.0~20180218"
 
 dependencies:
     - "swift-beta (>=4.1.0~20180218)"
