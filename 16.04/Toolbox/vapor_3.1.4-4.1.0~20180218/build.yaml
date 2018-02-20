@@ -1,0 +1,10 @@
+package: "vapor"
+version: "3.1.2-4.0.3"
+
+dependencies:
+    - "swift-beta (>=4.1.0~20180218)"
+    - "git"
+    - "pkg-config"
+    - "ctls"
+
+description: "Toolbox for Vapor, a web framework for Swift"
