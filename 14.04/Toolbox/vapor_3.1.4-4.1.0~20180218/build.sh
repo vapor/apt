@@ -28,5 +28,5 @@ mkdir -p src/usr/local/bin
 mv toolbox/.build/release/Executable src/usr/local/bin/vapor
 
 rm -fr toolbox
-
+apt-get remove -y swift-beta
 apt-get install -y swift
