@@ -4,6 +4,7 @@ TOOLBOX_VERSION="3.1.4"
 SWIFT_VERSION="4.1.0~20180218"
 
 apt-get update -y
+apt-get remove -y swift
 apt-get install -y --allow-downgrades swift-beta=${SWIFT_VERSION} ctls
 
 swift --version
