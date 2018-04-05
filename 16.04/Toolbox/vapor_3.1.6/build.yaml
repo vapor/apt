@@ -1,0 +1,11 @@
+package: "vapor"
+version: "3.1.6"
+
+dependencies:
+    - "swift (>=4.1.0)"
+    - "git"
+    - "pkg-config"
+    - "ctls"
+    - "libssl-dev"
+
+description: "Toolbox for Vapor, a web framework for Swift"
