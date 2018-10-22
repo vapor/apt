@@ -1,0 +1,8 @@
+package: "ctls"
+version: "1.0.1"
+
+dependencies:
+    - "openssl"
+    - "libssl-dev"
+
+description: "LibreSSL and OpenSSL module map for Swift"
