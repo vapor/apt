@@ -1,0 +1,37 @@
+{
+    "swift": [
+        {
+            "packageName": "swiftlang",
+            "version": "4.2.1",
+            "url": "https://swift.org/builds/swift-4.2.1-release/#DIST/swift-4.2.1-RELEASE/swift-4.2.1-RELEASE-#DIST.tar.gz",
+            "toolbox": 
+            [
+                {
+                    "packageName": "vapor",
+                    "version": "3.0.11"
+                },
+                {
+                    "packageName": "vapor",
+                    "version": "3.0.10"
+                }
+            ]
+        },
+        {
+            "packageName": "swiftlang",
+            "version": "4.2.0",
+            "url": "https://swift.org/builds/swift-4.2-release/#DIST/swift-4.2-RELEASE/swift-4.2-RELEASE-#DIST.tar.gz",
+            "toolbox": 
+            [
+                {
+                    "packageName": "vapor",
+                    "version": "3.0.11"
+                },
+                {
+                    "packageName": "vapor",
+                    "version": "3.0.10"
+                }
+            ]
+        }
+    ],
+    "dependencies": "clang libicu-dev libcurl3"
+}

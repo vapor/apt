@@ -1,3 +1,0 @@
-#!/bin/bash
-chmod -R 644 /usr/lib/swift/CoreFoundation/*
-exit 0

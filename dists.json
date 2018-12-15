@@ -1,0 +1,28 @@
+{
+    "distributions": [
+        {
+            "version": "14.04",
+            "name": "trusty"
+        },
+        {
+            "version": "16.04",
+            "name": "xenial"
+        },
+        {
+            "version": "16.10",
+            "name": "yakkety"
+        },
+        {
+            "version": "17.04",
+            "name": "zesty"
+        },
+        {
+            "version": "18.04",
+            "name": "bionic"
+        },
+        {
+            "version": "18.10",
+            "name": "cosmic"
+        }
+    ]
+}
