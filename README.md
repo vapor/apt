@@ -1,4 +1,4 @@
-# # Vapor APT
+# Vapor APT
 
 [![Build Status](https://jenkins.vapor.cloud/buildStatus/icon?job=vapor-apt-build)](https://jenkins.vapor.cloud/job/vapor-apt-build)
 
